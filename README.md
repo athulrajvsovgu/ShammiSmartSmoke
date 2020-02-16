@@ -1,1 +1,1 @@
-# ShammiSmartSmoke
+scion-iot
